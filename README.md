@@ -1,4 +1,4 @@
-# TechFest 2026
+# TechFest 2026 
 
 TechFest 2026 is a multi-page website created using HTML. The project represents a college technology festival and includes information about events, registration, sponsors, and contact details.
 
